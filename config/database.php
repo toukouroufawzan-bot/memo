@@ -2,7 +2,7 @@
 <?php
 
 $host = "localhost";
-$dbname = "bibliotheque_memoires";
+$dbname = "memotheque";
 $username = "root";
 $password = "";
 
