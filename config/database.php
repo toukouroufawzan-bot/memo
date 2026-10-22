@@ -3,7 +3,7 @@
 
 $host = "localhost";
 $dbname = "memotheque";
-$username = "root";
+$username = "root"; 
 $password = "";
 
 try {
